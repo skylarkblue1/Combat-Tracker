@@ -1,1 +1,32 @@
-{"characters":[{"DEX":40,"HP":13,"name":"Matt"},{"DEX":50,"HP":11,"name":"Joe"},{"DEX":30,"HP":10,"name":"Elle"}]}
+{
+    "characters": [
+        {
+            "DEX": 10,
+            "HP": 20,
+            "name": "bob"
+        },
+        {
+            "DEX": 40,
+            "HP": 30,
+            "name": "jimbo"
+        },
+        {
+            "DEX": 10,
+            "HP": 40,
+            "name": "trevor duck"
+        }
+    ],
+    "enemies": [
+        {
+            "DEX": 35,
+            "HP": 17,
+            "POW": 90,
+            "name": "Gardiner-Thing",
+            "special power": [
+                "Song of Lost Dreams",
+                "Start",
+                "All roll power against power of 90, if lose roll 1d3 and become dazed for that many rounds. Dazed means you cannot initiate attacks."
+            ]
+        }
+    ]
+}
